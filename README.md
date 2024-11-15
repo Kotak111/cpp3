@@ -1,4 +1,4 @@
-<h1 align="center">Time Converter_C++</h1>
+<h1 align="center">Vehicle Registry System using C++</h1>
 <br>
 
 <h3 align="center">Develop a Vehicle Registry System using C++ that demonstrates all types of inheritance and
